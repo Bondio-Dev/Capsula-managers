@@ -39,7 +39,10 @@ docker compose logs -f
 ```bash  
 docker compose down --remove-orphans  
 ```  
-
+```
+python3 -m venv bot_env
+source ~/bot_env/bin/activate
+```
 
 # RAG Telegram Bot для CAPSULAhair
 
