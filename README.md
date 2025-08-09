@@ -42,6 +42,7 @@ docker compose down --remove-orphans
 ```
 python3 -m venv bot_env
 source ~/bot_env/bin/activate
+pip install -r requirements.txt
 ```
 
 # RAG Telegram Bot для CAPSULAhair
